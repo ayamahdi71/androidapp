@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">" jbka"</string>
+    <string-array name="arr1">
+        <item>Choose Method</item>
+        <item>Fast</item>
+        <item>No Matter</item>
+    </string-array>
+    <string-array name="arr2">
+        <item>LOW</item>
+        <item>No Matter</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
